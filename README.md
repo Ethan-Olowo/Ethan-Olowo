@@ -8,9 +8,9 @@ What I'm Currently Working On:
 - 🤖 Experimenting with artificial intelligence and machine learning to solve complex challenges.
 
 Skills:
-- Languages: Dart, Python, JavaScript, C++, Java
+- Languages: Dart, Python, JavaScript, C++, Java, C#
 - Frameworks & Tools: Flutter, Pandas, Laravel
-- Databases: Firebase, MySQL
+- Databases: Firebase, MySQL, SQLite
 
 Goals:
 - 💡 Build scalable and efficient tech solutions that can impact industries.
